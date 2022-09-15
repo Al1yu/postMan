@@ -1,6 +1,80 @@
 
 
 
-td{
-    padding: 100px;
+
+.first{
+    font-size: 21px;
+    margin: 0px;
 }
+
+.second{
+    margin: 20px;
+}
+
+.secondFirst{
+    margin: 0px;
+    width: 50%;
+    font-size: 21px;
+    padding: 0px 20px;
+}
+
+.cardImage{
+    width: 60px;
+    height: 60px;
+    margin: 30px;
+}
+
+.secondrow{
+    border: 0px;
+
+}
+
+.card{
+   
+    padding: 10px;
+}
+
+.card-title{
+    margin: 10px;
+}
+
+.card-text{
+    margin-top: 30px;
+}
+
+
+.container{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    /* margin: 150px 0px 100px 0px; */
+}
+
+.imgfooter{
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+}
+
+.copyright{
+    font-size: small;
+    margin-top: 30px;
+}
+
+.third{
+    margin:100px 0px;
+}
+
+.thirdrow{
+    border: 10px;
+}
+
+.thirdCardImage{
+    width: 170px;
+    height: 90px;
+    margin-bottom: 30px;
+}
+
+ .thirdH2{
+    margin: 15px;
+    padding: 0px 20px;
+ }
